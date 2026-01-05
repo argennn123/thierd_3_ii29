@@ -5,5 +5,3 @@ def full_name(name):
 full_name('Adilet')
 full_name('Sezim')
 
-
-
