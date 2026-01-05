@@ -3,3 +3,7 @@ def full_name(name):
         print(i.upper())
 
 full_name('Adilet')
+full_name('Sezim')
+
+
+
