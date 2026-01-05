@@ -1,5 +1,2 @@
-def full_name(name):
-    for i in name:
-        print(i.upper())
-
+full_name = lambda name: [print(i) for i in name]
 full_name('Adilet')
